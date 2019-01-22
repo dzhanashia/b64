@@ -13,4 +13,4 @@ delete_clfs()
 Удаляет файлы с обученными классификаторами
 
 ---
-SVC, KNeighborsClassifier, GaussianNB... - обученные классификтаоры
+SVC, KNeighborsClassifier, GaussianNB... - обученные классификаторы
