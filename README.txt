@@ -11,3 +11,6 @@ pick_out(s, index=True)
 
 delete_clfs()
 Удаляет файлы с обученными классификаторами
+
+---
+SVC, KNeighborsClassifier, GaussianNB... - обученные классификтаоры
